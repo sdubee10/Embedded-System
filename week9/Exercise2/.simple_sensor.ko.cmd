@@ -1,0 +1,1 @@
+cmd_/home/sdub10/Embedded/week9/Exercise2/simple_sensor.ko := /usr/bin/arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/sdub10/Embedded/week9/Exercise2/simple_sensor.ko /home/sdub10/Embedded/week9/Exercise2/simple_sensor.o /home/sdub10/Embedded/week9/Exercise2/simple_sensor.mod.o ;  true

@@ -1,1 +1,0 @@
-cmd_/home/sdub10/Embedded/week12/Workqueue/simple_workqueue.ko := /usr/bin/arm-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/sdub10/Embedded/week12/Workqueue/simple_workqueue.ko /home/sdub10/Embedded/week12/Workqueue/simple_workqueue.o /home/sdub10/Embedded/week12/Workqueue/simple_workqueue.mod.o ;  true
